@@ -46,5 +46,6 @@ This dashboard is designed to address the needs of diverse stakeholders includin
 5.	Visualization: Design dashboard pages for KPIs, trends, and distributions using the suggested BI tools.
 6.	Documentation: Maintain code and dashboard documentation to ease maintenance and stakeholder onboarding.
 This project empowers stakeholders with actionable insights into road safety—supporting better transport policies and safer roads.
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/de32d0c3-b4c1-4ec6-a38f-b6c1cde85139" />
  
 
