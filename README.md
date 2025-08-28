@@ -22,13 +22,13 @@ This project aims to build an insightful Road Accident Dashboard for the years 2
 
 
 ## Data & Metadata
-1.Attribute	Value
-2.File Extension	.xlsx
-3.Rows	3.07 Million
-4.Fields	21
-5.Years Covered	2021, 2022
-6.Sample Fields	Accident_Index, Accident Date, Severity, Vehicle Type, Location, Light Conditions, Junction Details, Road Surface, etc.
-7.Accident_Index	Accident Date	Day_of_Week	Junction_Control	Severity	Latitude	Light_Conditions	Location
+1. Attribute	Value
+2. File Extension	.xlsx
+3. Rows	3.07 Million
+4. Fields	21
+5. Years Covered	2021, 2022
+6. Sample Fields	Accident_Index, Accident Date, Severity, Vehicle Type, Location, Light Conditions, Junction Details, Road Surface, etc.
+7. Accident_Index	Accident Date	Day_of_Week	Junction_Control	Severity	Latitude	Light_Conditions	Location
 200901BS70001	1/1/2021	Thursday	Give way or uncontrolled	Serious	51.513273	Daylight	Kensington
 
 ## Stakeholders
