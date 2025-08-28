@@ -27,21 +27,21 @@ Rows	3.07 Million
 Fields	21
 Years Covered	2021, 2022
 Sample Fields	Accident_Index, Accident Date, Severity, Vehicle Type, Location, Light Conditions, Junction Details, Road Surface, etc.
-•	Note: A sample of the data sheet and required fields is shown below for reference:
 Accident_Index	Accident Date	Day_of_Week	Junction_Control	Severity	Latitude	Light_Conditions	Location
 200901BS70001	1/1/2021	Thursday	Give way or uncontrolled	Serious	51.513273	Daylight	Kensington
 
 ## Stakeholders
 This dashboard is designed to address the needs of diverse stakeholders including:
-•	Ministry of Transport
-•	Road Transport Department
-•	Police Force
-•	Emergency Services Department
-•	Road Safety Corps
-•	Transport Operators
-•	Traffic Management Agencies
-•	Public
-•	Media
+1.	Ministry of Transport
+2.	Road Transport Department
+3.	Police Force
+4.	Emergency Services Department
+5.	Road Safety Corps
+6.	Transport Operators
+7.	Traffic Management Agencies
+8.	Public
+9.	Media
+
 
 ## Getting Started
 1.	Clone the repository and ensure the .xlsx dataset (3M+ rows, 21 columns) is available.
